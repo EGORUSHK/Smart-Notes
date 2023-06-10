@@ -1,2 +1,2 @@
 # Smart-Notes
-Smart notes
+Приложение для создания заметок
